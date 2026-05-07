@@ -6,8 +6,8 @@ from datetime import datetime
 import sys
 
 ENDPOINT = "dxi-iot-endpoint.cvda.qa-ph3.dconnect2.daihatsu.co.jp"
-CLIENT_ID = "1LA851S-AB00137"
-TOPIC="dt/dxi/bcall/1LA851S-AB00137/response"
+CLIENT_ID = "SHIFT830-dcm18"
+TOPIC="dt/dxi/bcall/SHIFT830-dcm18/response"
 PATH_TO_CERTIFICATE = "crt/crt/certificate.pem.crt"
 PATH_TO_PRIVATE_KEY = "crt/crt/private.pem.key"
 PATH_TO_AMAZON_ROOT_CA_1 = "crt/crt/aws-ca.pem"
